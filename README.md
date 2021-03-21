@@ -1,2 +1,2 @@
 # My first drawing
-Drawing using SwifUI's components.
+Drawing sample using SwiftUI's components.
